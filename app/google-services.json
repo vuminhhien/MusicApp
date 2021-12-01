@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "315136291389",
+    "project_id": "androidnetworking-c7a35",
+    "storage_bucket": "androidnetworking-c7a35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:315136291389:android:8d0dc7d485802bb6ac7054",
+        "android_client_info": {
+          "package_name": "com.minhien.musicappasm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "315136291389-ev4rkh2s66iqrpaico5tkruco6ehoaes.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR0tQZqPeb__uyrbEcQ3tQTm5_f5UWLdg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "315136291389-ev4rkh2s66iqrpaico5tkruco6ehoaes.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

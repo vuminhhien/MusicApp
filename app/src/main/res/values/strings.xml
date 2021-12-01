@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MusicAppASM</string>
+    <string name="list_home">Music</string>
+    <string name="category_home">Categories</string>
+    <string name="album_home">Album</string>
+    <string name="user_home">Account</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
